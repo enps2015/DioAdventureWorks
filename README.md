@@ -9,7 +9,7 @@ Este projeto tem como objetivo analisar dados de vendas da empresa fictícia Adv
 
 O dashboard permite explorar as vendas, a lucratividade, o desempenho por produto, a performance das lojas e o comportamento dos clientes. Com visualizações claras e filtros interativos, a ferramenta facilita a compreensão do negócio e auxilia na tomada de decisões estratégicas.
 
-**Acesse o aplicativo online:** [link do seu aplicativo no Streamlit Sharing]
+**Acesse o aplicativo online:** [[dioadventureworks.meuaplicativo](https://dioadventureworks.streamlit.app/)]
 
 ### Funcionalidades
 
@@ -52,18 +52,17 @@ O dashboard permite explorar as vendas, a lucratividade, o desempenho por produt
 
 **Tela Principal:**
 
-[Insira uma captura de tela da tela principal do seu dashboard]
+![capturaTela001](https://github.com/enps2015/DioAdventureWorks/assets/84017071/bb9be90c-53f5-426c-8670-c6a515a4bd58)
 
-**Seção de Vendas e Lucratividade:**
+![capturaTela002](https://github.com/enps2015/DioAdventureWorks/assets/84017071/98551077-6417-4aab-b6f4-8ca4d9fbe3d3)
 
-[Insira uma captura de tela da seção de vendas e lucratividade]
+![capturaTela003](https://github.com/enps2015/DioAdventureWorks/assets/84017071/d7c551ba-14da-472b-a991-244a3a77230e)
 
-**Análise por Loja:**
+![capturaTela004](https://github.com/enps2015/DioAdventureWorks/assets/84017071/39daa91d-154c-4ae6-8010-f5747d23949a)
 
-[Insira uma captura de tela da análise por loja]
+![capturaTela005](https://github.com/enps2015/DioAdventureWorks/assets/84017071/ed3fe239-4373-4ea8-9dcf-bc112d249b41)
 
-**Análise por Cliente:**
+https://github.com/enps2015/DioAdventureWorks/assets/84017071/27408f77-5b45-4840-abcc-9305243142d2
 
-[Insira uma captura de tela da análise por cliente]
 
 
